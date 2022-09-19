@@ -56,12 +56,10 @@ function install_end_message {
     echo -e "$YELLOW Daemon Script By Vaudois                      					$COL_RESET"
 	echo -e "$GREEN	Donations are welcome at wallets below:					  	$COL_RESET"
 	echo -e "$CYAN  --------------------------------------------------------------------------- 	$COL_RESET"
-	echo -e "$CYAN 	https://github.com/vaudois/daemon_install_script				$COL_RESET"
+	echo -e "$CYAN 	https://github.com/vaudois/install_daemon_addport				$COL_RESET"
 	echo -e "$CYAN  ---------------------------------------------------------------------------  	$COL_RESET"
 	echo
 	echo -e "$CYAN  --------------------------------------------------------- 			$COL_RESET"
-    echo -e "$RED   YOU MUST REBOOT NOW  TO FINALIZE INSTALLATION Thanks you!				$COL_RESET"
-    echo -e "$CYAN  ---------------------------------------------------------   			$COL_RESET"
     echo
     cd ~
 }
