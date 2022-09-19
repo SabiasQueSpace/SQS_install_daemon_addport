@@ -12,7 +12,7 @@
 
 Use this script on fresh install ubuntu Server 16.04 / 18.04. ``` No other version is currently supported. ``` There are a few things you need to do after the main install is finished.
 
-## First of all you need to create a new user i use pool, and upgrade the system.
+## First upgrade the system and make sure is not root user.
 
 Update and upgrade your system.
 ```
